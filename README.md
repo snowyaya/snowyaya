@@ -1,14 +1,14 @@
 ### Hi there 👋  I am Yaya!
 
-I am a **👩‍💻 female technologist** based in the US and a CS graduate 👩‍🎓 student at the University of Pennsylvania.!  
+I am a **👩‍💻 female technologist** based in the US and a CS graduate 👩‍🎓 student at the `+ University of Pennsylvania`!  
 
 * 🧐   Interested in full stack. Recently focus on **Blockchain** abnd **Three.js**.
 * 💻   **React, ThreeJS, Solidity, NextJS, Docker**.
 * 🌱   Currently learning **Linux, iOS**.
-* 🎓   Master of Computer Science
+* 🎓   Master of Computer Science at UPenn
 * 🌐   My drawings and photography are on my [portfolio](https://www.yayingliang.com).
 * 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
-* ⚡    Love making voxel arts, reading, and jogging.
+* ⚡    Love making voxel arts, drawing, reading, jogging.
 * 📚   Reading: A Wander Walk Down Wall Street
 
 <details>
