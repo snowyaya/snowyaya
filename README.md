@@ -1,7 +1,5 @@
 ### Hi there 👋  I am Yaya!
 
-`Portfolio`: 
-
 I am a **👩‍💻full-stack developer** based in the US and a CS graduate 👩‍🎓 student at the University of Pennsylvania.!  
 
 * 🧐   Interested in full stack. Recently focus on **Blockchain** abnd **Three.js**.
