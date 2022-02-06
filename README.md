@@ -9,7 +9,7 @@ I am a **👩‍💻 female technologist** based in the US and a CS graduate �
 * 🌐   My drawings and photography are on my [portfolio](https://www.yayingliang.com).
 * 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
 * ⚡    Love making voxel arts, drawing, reading, jogging and photograph.
-* 📚   Reading: A Wander Walk Down Wall Street
+* 📚   Recent reading: A Wander Walk Down Wall Street Reminiscences of A Stock Operator, 大秦帝国，显微镜下的大明
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
