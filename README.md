@@ -8,7 +8,7 @@ I am a **👩‍💻 female technologist** based in the US and a CS graduate �
 * 🌱   Currently learning **Linux, iOS**.
 * 🌐   My drawings and photography are on my [portfolio](https://www.yayingliang.com).
 * 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
-* ⚡    Love making voxel arts, drawing, reading, jogging.
+* ⚡    Love making voxel arts, drawing, reading, jogging and photograph.
 * 📚   Reading: A Wander Walk Down Wall Street
 
 <details>
