@@ -7,7 +7,8 @@ I am a **👩‍💻full-stack developer** based in the US and a CS graduate �
 * 🧐   Interested in full stack. Recently focus on **Blockchain** abnd **Three.js**.
 * 🌱   Currently learning **Linux, Solidity, iOS**.
 * 🎓   Master of Computer Science, Master of Education in Mathematics. Major GPA 3.57/4.0, GPA 3.8/4.0.
-* 🌐   I put my drawings and photography on my [portfolio](www.yayingliang.com).
+* 🌐   I put my drawings and photography on my [portfolio](https://www.yayingliang.com).
+* 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
 
 <details>
   <summary>Some other achievements about me~e~e</summary>
