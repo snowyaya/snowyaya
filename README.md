@@ -5,7 +5,7 @@
 I am a **👩‍💻full-stack developer** based in the US and a CS graduate 👩‍🎓 student at the University of Pennsylvania.!  
 
 * 🧐   Interested in full stack. Recently focus on **Blockchain** abnd **Three.js**.
-* * 🌱   Currently learning **Linux, Solidity, iOS**.
+* 🌱   Currently learning **Linux, Solidity, iOS**.
 * 🎓   Master of Computer Science, Master of Education in Mathematics. Major GPA 3.57/4.0, GPA 3.8/4.0.
 * 🌐   I put my drawings and photography on my [portfolio](www.yayingliang.com).
 
