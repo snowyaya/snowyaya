@@ -2,7 +2,7 @@
 
 I am a **👩‍💻 female technologist** based in the US and a CS graduate 👩‍🎓 student at the University of Pennsylvania!  
 
-* 🎓  University of Pennsylvania
+* 🎓  University of Pennsylvania, University of Virginia
 * 🧐   Interested in full stack. Recently focus on **Blockchain** abnd **Three.js**.
 * 💻   **React, ThreeJS, Solidity, NextJS, Docker**.
 * 🌱   Currently learning **Linux, iOS**.
