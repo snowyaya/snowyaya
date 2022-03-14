@@ -5,7 +5,7 @@ I am a **👩‍💻 female technologist** based in the US and also a CS graduat
 
 * 🎓  University of Pennsylvania, University of Virginia
 * 🧐   Interested in full stack. Recently focus on **web3, Three.js** and **iOS**.
-* 🌱   Currently diving deep into **Spring, [Three.js](https://github.com/snowyaya/ThreeJS-Journey), [Solidity](https://github.com/snowyaya/Blockchain-Python), [iOS](https://github.com/snowyaya/Twitter-iOS), Algorithmic Trading with ML**.
+* 🌱   Currently diving deep into **Microservice, [Three.js](https://github.com/snowyaya/ThreeJS-Journey), [Solidity](https://github.com/snowyaya/Blockchain-Python), [iOS](https://github.com/snowyaya/Twitter-iOS)**.
 * 🌐   My drawings and photography are on my [portfolio](https://www.yayingliang.com).
 * 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
 * ⚡    Love making voxel arts, drawing, reading, jogging and photograph.
