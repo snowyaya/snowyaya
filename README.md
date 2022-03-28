@@ -1,7 +1,7 @@
 
 ### Hi there 👋 
 
-I am a **👩🏻‍💻 female technologist** based in the US and also a CS graduate 👩‍🎓 student at the University of Pennsylvania!  
+I am a **👩🏻‍💻 female technologist** based in the US and also a CS graduate 👩🏻‍🎓 student at the University of Pennsylvania!  
 
 * 🎓  University of Pennsylvania, University of Virginia
 * 🧐   Interested in full stack. Recently focus on **web3, Three.js** and **iOS**.
