@@ -8,7 +8,7 @@ I am a **👩🏻‍💻 female technologist** based in the US and also a CS gra
 * 🌐   My drawings and photography are on my [portfolio](https://www.yayingliang.com).
 * 🤝   Connect with me on [LinkedIn](https://www.linkedin.com/in/yaya-l-8a28171a2/).
 * ⚡    Love making drawing, reading, jogging and photograph.
-* 📚   Recent reading: The Sovereign Individual
+* 📚   Recent reading: [The Sovereign Individual](https://github.com/snowyaya/The-Sovereign-Individual)
 
 <details>
   <summary>Some other achievements about me~e~e~</summary>
